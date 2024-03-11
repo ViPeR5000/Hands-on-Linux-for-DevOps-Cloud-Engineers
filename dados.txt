@@ -1,0 +1,134 @@
+Hands-on Linux for DevOps & Cloud Engineers
+76 Reviews
+Beginner
+ 4 Hrs
+
+Modern Linux and DevOps fundamentals for the Cloud Practitioner.
+
+40 Premium Lessons
+
+8 Quizzes & Assessments
+
+Certificate of Completion
+AboutWhat You Will LearnContentInstructorsReviews
+Overview
+As more and more workloads are moving to Cloud providers. Being proficient with Linux, in a Cloud environment, is becoming a necessity to do your job. Not only do you have to know enough Linux to manage your applications, but you also must understand DevOps and security for Linux in the Cloud. 
+
+In this course, you will get an overview of what Linux is and how it is used in AWS by DevOps and Cloud engineers. Further, you will set up a Linux server where you can learn how to perform system administration tasks like installing software and managing users. In addition, you will also be introduced to DevOps principles and using tools to deliver software like containers.  
+
+By the end of the course, you will start building a security foundation to keep your users and server safe. 
+
+The necessary resources for this course are in the "Resources" section of Video 1.1. You can also access them through this direct link - https://github.com/ec-council-learning/Hands-on-Linux-for-DevOps-Cloud-Engineers
+
+
+What You Will Learn
+
+Understand what Linux is and how to administer it
+
+Learn about DevOps
+
+Learn about Cloud Computing
+
+Learn how to launch a Linux server in AWS
+
+Get hands on Common Linux commands
+
+Understand Foundational Linux Security
+
+Learn Basic Scripting with Bash
+Prerequisites
+A system with Linux OS
+Basic IT Knowledge
+Content
+Chapter 1: Introduction to Linux
+4 Videos
+
+What is Linux?
+What is Linux used for?
+Why use Linux?
+$3.5 Million Cybersecurity Scholarship by EC-Council
+Chatper 1 Quiz
+Preview
+
+Chapter 2 : Overview of DevOps and Cloud Fundamentals
+8 Videos
+
+Introduction to DevOps
+DevOps Principles
+DevOps Terminologies
+DevOps Pipeline
+Containers and Container Orchestrations
+Introduction to Cloud Computing
+Cloud Computing Service Models
+Cloud Computing Deployment Models
+Chapter 2 Quiz
+Preview
+
+Chapter 3: Setting Up a Lab
+6 Videos
+
+Creating Cloud Account on AWS
+Overview of Virtual Private Cloud
+Overview of Subnets and Routing Tables
+Overview of Security Groups and Internet Gateways
+Overview of EC2
+Create Your Lab
+Chapter 3 Quiz
+Preview
+
+Chapter 4: Learning Linux Administration and Operations using DevOps in the Cloud
+9 Videos
+
+Understanding the Linux Filesystem
+Creating Files and Directories
+User Management in Linux
+Group Management in Linux
+Software Management in Linux
+Monitoring a Linux Server
+Networking in Linux
+Managing Services in Linux with System
+Running MariaDB in a Container
+Chapter 4 Quiz
+Preview
+
+Chapter 5: Basic Scripting with Bash
+3 Videos
+
+Learning Bash Fundamentals
+Automate Backup with Bash
+Display System Information from with Bash
+Chapter 5 Quiz
+Preview
+
+Chapter 6: Linux Security
+4 Videos
+
+How Linux Handles Authentication?
+Linux Firewalls
+Logging and Auditing
+Hardening Your SSH Server
+Chapter 6 Quiz
+Preview
+
+Chapter 7 : Common Linux Commands and Functionalities
+2 Videos
+
+Common Linux Commands
+Common AWS CLI Commands
+Chapter 7 Quiz
+Preview
+
+Chapter 8: Conclusion
+4 Videos
+
+Popular Linux Distributions for the Cloud
+Best Practices for Linux in the Cloud
+Linux Command Cheat sheet
+Pathway to DevOps Security Engineer Certification
+Chapter 8 Quiz
+Preview
+
+Instructor
+Bradley Smith
+Bradley Smith
+Bradley Smith has been in engineering for more than 20 years at many companies of different sizes. He's spent those years working in Linux and building out DevOps, SRE, and software engineering teams. Bradley is also the author of DevOps for the Desperate, a book about practical DevOps for software engineers. A Boston native, Bradley graduated from the University of Massachusetts Lowell.
