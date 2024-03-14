@@ -6,25 +6,25 @@ distros[1]="Ubuntu"
 distros[2]="RedHat"
 distros[3]="Debian"
 distros[5]="Arch"
-
+distros[5]="Kali"
 
 # print out each distro
 for distro in "${distros[@]}"
-do
-	echo $distro
-done
+	do
+		echo $distro
+	done
 
 echo "----------------"
 
 # print out each distro until you hit RedHat then stop
 for distro in "${distros[@]}"
-do
-	if [ "$distro" = "RedHat" ]
-	then
+	do
+		if [ "$distro" = "RedHat" ]
+			then
 		break
 	fi
-	echo $distro
-done
+		echo $distro
+	done
 
 # while loop
 echo "Count up"
